@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+.env/
+.venv/
+env/
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# CSV or data files (optional)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Cache or temporary files
+*.bak
+*.tmp
+*.swp
+
+# Python virtual environment dependencies (optional)
+Pipfile.lock
+poetry.lock
