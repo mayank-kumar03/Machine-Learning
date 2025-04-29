@@ -20,3 +20,10 @@ t1.join()
 t2.join()
 finished_time=time.time()-t
 print(finished_time)
+
+
+
+
+
+
+
