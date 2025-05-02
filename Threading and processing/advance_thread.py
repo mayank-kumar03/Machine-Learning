@@ -12,4 +12,4 @@ with ThreadPoolExecutor(max_workers=3) as executor:
     results = executor.map(print_number, numbers)
 
 for result in results:
-    print(result)
+    print(result
